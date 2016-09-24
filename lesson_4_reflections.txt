@@ -1,0 +1,2 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Because it is only necessary to synchronize the local repository with the remote when you need to start a new modification to the remote. Only in this case it is necesary to bring into the local repo the changes that are in the remote, but not in the local repo.
